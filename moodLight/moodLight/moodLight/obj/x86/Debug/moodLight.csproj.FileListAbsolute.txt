@@ -1,0 +1,27 @@
+\\artemis\18itanne\my documents\visual studio 2010\Projects\moodLight\moodLight\moodLight\bin\x86\Debug\moodLight.exe
+\\artemis\18itanne\my documents\visual studio 2010\Projects\moodLight\moodLight\moodLight\bin\x86\Debug\moodLight.pdb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.csprojResolveAssemblyReference.cache
+\\artemis\18itanne\my documents\visual studio 2010\Projects\moodLight\moodLight\moodLight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\18itanne\my documents\visual studio 2010\Projects\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.exe
+\\artemis\18itanne\my documents\visual studio 2010\Projects\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.pdb
+B:\OneDrive\School\Coding\Virtual Studio\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.exe
+B:\OneDrive\School\Coding\Virtual Studio\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.pdb
+B:\OneDrive\School\Coding\Virtual Studio\moodLight\moodLight\moodLight\bin\x86\Debug\moodLight.exe
+B:\OneDrive\School\Coding\Virtual Studio\moodLight\moodLight\moodLight\bin\x86\Debug\moodLight.pdb
+B:\OneDrive\School\Coding\Virtual Studio\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.csprojResolveAssemblyReference.cache
+B:\OneDrive\School\Coding\Virtual Studio\moodLight\moodLight\moodLight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+B:\OneDrive\School\Coding\Virtual Studio\moodLight\moodLight\moodLight\bin\x86\Debug\Content\Title.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\bin\x86\Debug\Content\Title.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\bin\x86\Debug\moodLight.exe
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\bin\x86\Debug\moodLight.pdb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.exe
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.pdb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\bin\x86\Debug\Content\Title.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\bin\x86\Debug\moodLight.exe
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\bin\x86\Debug\moodLight.pdb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.csprojResolveAssemblyReference.cache
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.exe
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\moodLight\moodLight\moodLight\obj\x86\Debug\moodLight.pdb

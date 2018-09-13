@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Hospital Parking Lot.png</Source>
+      <Name>Hospital Parking Lot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb</Output>
+      <Time>2011-09-22T08:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Medicine Bottle.png</Source>
+      <Name>Medicine Bottle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb</Output>
+      <Time>2011-09-22T08:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel.png</Source>
+      <Name>Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb</Output>
+      <Time>2011-09-22T08:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Down.png</Source>
+      <Name>Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb</Output>
+      <Time>2011-09-22T08:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Left.png</Source>
+      <Name>Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb</Output>
+      <Time>2011-09-22T08:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Right.png</Source>
+      <Name>Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb</Output>
+      <Time>2011-09-22T08:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Up.png</Source>
+      <Name>Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb</Output>
+      <Time>2011-09-22T08:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Impact.spritefont</Source>
+      <Name>Impact</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb</Output>
+      <Time>2011-09-22T08:02:30-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{09B31BAD-4E97-4A40-BF03-AF331F246F00}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBarContent\</RootDirectory>
+      <LoggerRootDirectory>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-27T14:38:55.968977-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

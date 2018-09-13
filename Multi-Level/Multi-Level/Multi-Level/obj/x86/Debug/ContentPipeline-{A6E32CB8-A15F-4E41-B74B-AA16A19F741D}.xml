@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2018-04-29T10:15:34.7527394-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile1.png</Source>
+      <Name>Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Tile1.xnb</Output>
+      <Time>2018-04-29T10:15:34.8045301-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile.png</Source>
+      <Name>Tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Tile.xnb</Output>
+      <Time>2018-04-29T10:39:06.0554328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>supermariohair.png</Source>
+      <Name>supermariohair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\supermariohair.xnb</Output>
+      <Time>2018-04-29T12:11:25.4438783-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Marios coin adventure.png</Source>
+      <Name>Marios coin adventure</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Marios coin adventure.xnb</Output>
+      <Time>2018-04-29T12:29:58.8753162-04:00</Time>
+    </Item>
+    <Item>
+      <Source>marioPlay.png</Source>
+      <Name>marioPlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\marioPlay.xnb</Output>
+      <Time>2018-04-29T12:38:28.9243624-04:00</Time>
+    </Item>
+    <Item>
+      <Source>marioPlayMouseOver.png</Source>
+      <Name>marioPlayMouseOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\marioPlayMouseOver.xnb</Output>
+      <Time>2018-04-29T12:43:28.0598983-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MarioBackground1.png</Source>
+      <Name>MarioBackground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\MarioBackground1.xnb</Output>
+      <Time>2018-04-29T12:54:45.9488952-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Game Over.png</Source>
+      <Name>Mario Game Over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Game Over.xnb</Output>
+      <Time>2018-04-29T13:26:05.5781625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario nah Mouse OVer.png</Source>
+      <Name>Mario nah Mouse OVer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario nah Mouse OVer.xnb</Output>
+      <Time>2018-04-29T13:26:05.5791643-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Nah.png</Source>
+      <Name>Mario Nah</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Nah.xnb</Output>
+      <Time>2018-04-29T13:26:05.6002209-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Try Again.png</Source>
+      <Name>Mario Try Again</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Try Again.xnb</Output>
+      <Time>2018-04-29T13:26:05.6012235-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Yea Mouse OVer.png</Source>
+      <Name>Mario Yea Mouse OVer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Yea Mouse OVer.xnb</Output>
+      <Time>2018-04-29T13:26:05.602226-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Yea.png</Source>
+      <Name>Mario Yea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Yea.xnb</Output>
+      <Time>2018-04-29T13:26:05.6027265-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Level Complete.png</Source>
+      <Name>Mario Level Complete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Level Complete.xnb</Output>
+      <Time>2018-04-29T13:59:55.6446564-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Next Mouse Over.png</Source>
+      <Name>Mario Next Mouse Over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Next Mouse Over.xnb</Output>
+      <Time>2018-04-29T13:59:55.6451581-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Next.png</Source>
+      <Name>Mario Next</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Next.xnb</Output>
+      <Time>2018-04-29T13:59:55.6737333-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mario mouse.png</Source>
+      <Name>mario mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\mario mouse.xnb</Output>
+      <Time>2018-04-30T16:55:03.7414103-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Coin Sound Effect.wav</Source>
+      <Name>Coin Sound Effect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Coin Sound Effect.xnb</Output>
+      <Time>2018-04-29T11:41:12.882476-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Super Mario Game Over.wav</Source>
+      <Name>Super Mario Game Over</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Super Mario Game Over.xnb</Output>
+      <Time>2018-04-29T14:14:34.2953097-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Super Mario Level Complete.wav</Source>
+      <Name>Super Mario Level Complete</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Super Mario Level Complete.xnb</Output>
+      <Time>2018-04-30T16:35:57.9401968-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Overworld Theme.mp3</Source>
+      <Name>Overworld Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Overworld Theme.xnb</Output>
+      <Extra>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Overworld Theme.wma</Extra>
+      <Time>2018-04-29T11:43:42.1321687-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Underwater Theme.mp3</Source>
+      <Name>Underwater Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Underwater Theme.xnb</Output>
+      <Extra>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Underwater Theme.wma</Extra>
+      <Time>2018-04-29T11:57:12.4592104-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario Kart 8 Theme Song.mp3</Source>
+      <Name>Mario Kart 8 Theme Song</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Kart 8 Theme Song.xnb</Output>
+      <Extra>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Mario Kart 8 Theme Song.wma</Extra>
+      <Time>2018-04-30T15:49:45.1670481-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Super Mario Odyssey Theme.mp3</Source>
+      <Name>Super Mario Odyssey Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Super Mario Odyssey Theme.xnb</Output>
+      <Extra>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\Super Mario Odyssey Theme.wma</Extra>
+      <Time>2018-04-30T15:54:20.3788477-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A6E32CB8-A15F-4E41-B74B-AA16A19F741D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-LevelContent\</RootDirectory>
+      <LoggerRootDirectory>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\</LoggerRootDirectory>
+      <IntermediateDirectory>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>B:\OneDrive\School\12th Grade\Computer Programing\Multi-Level\Multi-Level\Multi-Level\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-03T19:19:14.5094513-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

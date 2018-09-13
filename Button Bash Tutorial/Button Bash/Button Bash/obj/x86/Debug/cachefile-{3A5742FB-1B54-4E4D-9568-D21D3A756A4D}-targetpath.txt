@@ -1,0 +1,11 @@
+Content\SpriteFont1.xnb
+Content\Running in the 90s.xnb
+Content\Running in the 90s.wma
+Content\Spider Man 2 Pizza Del.xnb
+Content\Spider Man 2 Pizza Del.wma
+Content\Mii Theme Song.xnb
+Content\Mii Theme Song.wma
+Content\Nyan Cat.xnb
+Content\Nyan Cat.wma
+Content\Macintosh Plus.xnb
+Content\Macintosh Plus.wma

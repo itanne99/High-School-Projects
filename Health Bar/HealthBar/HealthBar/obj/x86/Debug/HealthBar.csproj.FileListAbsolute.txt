@@ -1,0 +1,120 @@
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.exe
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.pdb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.exe
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.pdb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.exe
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.pdb
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.exe
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.pdb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.exe
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.pdb
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.csprojResolveAssemblyReference.cache
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.exe
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.pdb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.exe
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.pdb
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.csprojResolveAssemblyReference.cache
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.exe
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.pdb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.exe
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.pdb
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.csprojResolveAssemblyReference.cache
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.exe
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.pdb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.exe
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.pdb
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.csprojResolveAssemblyReference.cache
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.exe
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.pdb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.exe
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.pdb
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.csprojResolveAssemblyReference.cache
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.exe
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.pdb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.exe
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\HealthBar.pdb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.csprojResolveAssemblyReference.cache
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.exe
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\obj\x86\Debug\HealthBar.pdb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left2.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right2.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Goomba.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Heart 5.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Tree 1.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Tree 2.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Tree 3.xnb
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Tree 4.xnb

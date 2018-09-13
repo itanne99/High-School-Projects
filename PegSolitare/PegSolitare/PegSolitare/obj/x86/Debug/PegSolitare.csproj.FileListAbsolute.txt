@@ -1,0 +1,65 @@
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\PegSolitare.exe
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\PegSolitare.pdb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.csprojResolveAssemblyReference.cache
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.exe
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.pdb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\pegsolitaireoutline.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\Font1.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\peg.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\pegsolitaireoutline.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\peg.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\psTitle.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\Font1.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\PegSolitare.exe
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\PegSolitare.pdb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.csprojResolveAssemblyReference.cache
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.exe
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.pdb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\psTitle.xnb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\pegsolitaireoutline.xnb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\peg.xnb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\psTitle.xnb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\Font1.xnb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\PegSolitare.exe
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\PegSolitare.pdb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.csprojResolveAssemblyReference.cache
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.exe
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.pdb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\DebugText.xnb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButton.xnb
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButtonMouseOver.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButton.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButtonMouseOver.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\ResetButton.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\ResetButtonIsMouseOver.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\DebugText.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\You Lose!.xnb
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\You Win!.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\pegsolitaireoutline.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\peg.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\psTitle.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButton.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButtonMouseOver.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\ResetButton.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\ResetButtonIsMouseOver.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\You Lose!.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\You Win!.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\Font1.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\DebugText.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\PegSolitare.exe
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\PegSolitare.pdb
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.csprojResolveAssemblyReference.cache
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.exe
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.pdb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButton.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButtonMouseOver.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\ResetButton.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\ResetButtonIsMouseOver.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\You Lose!.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\You Win!.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\DebugText.xnb
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\PegSolitare.csproj.CoreCompileInputs.cache

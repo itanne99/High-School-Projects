@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Hospital Parking Lot.png</Source>
+      <Name>Hospital Parking Lot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Hospital Parking Lot.xnb</Output>
+      <Time>2011-09-22T07:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Medicine Bottle.png</Source>
+      <Name>Medicine Bottle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Medicine Bottle.xnb</Output>
+      <Time>2017-12-15T12:32:54.1114003-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel.png</Source>
+      <Name>Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Pixel.xnb</Output>
+      <Time>2011-09-22T07:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Down.png</Source>
+      <Name>Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Down.xnb</Output>
+      <Time>2017-12-15T12:30:19.9170467-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Left.png</Source>
+      <Name>Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left.xnb</Output>
+      <Time>2017-12-15T12:30:30.8217263-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Right.png</Source>
+      <Name>Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right.xnb</Output>
+      <Time>2017-12-15T12:30:39.9947615-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Up.png</Source>
+      <Name>Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Up.xnb</Output>
+      <Time>2017-12-15T12:30:48.9493911-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Impact.spritefont</Source>
+      <Name>Impact</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Impact.xnb</Output>
+      <Time>2011-09-22T07:02:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Left2.png</Source>
+      <Name>Left2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Left2.xnb</Output>
+      <Time>2017-12-15T12:37:56.0259415-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Right2.png</Source>
+      <Name>Right2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Right2.xnb</Output>
+      <Time>2017-12-15T12:37:39.8483267-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Goomba.png</Source>
+      <Name>Goomba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Goomba.xnb</Output>
+      <Time>2017-12-18T12:30:42.6837867-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Heart 5.jpg</Source>
+      <Name>Heart 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Heart 5.xnb</Output>
+      <Time>2017-12-18T12:43:14.773379-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tree 1.jpg</Source>
+      <Name>Tree 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Tree 1.xnb</Output>
+      <Time>2017-12-18T12:50:40.380379-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tree 2.jpg</Source>
+      <Name>Tree 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Tree 2.xnb</Output>
+      <Time>2017-12-18T12:50:40.400379-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tree 3.jpg</Source>
+      <Name>Tree 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Tree 3.xnb</Output>
+      <Time>2017-12-18T12:50:40.410379-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tree 4.jpg</Source>
+      <Name>Tree 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\Tree 4.xnb</Output>
+      <Time>2017-12-18T12:50:40.420379-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBarContent\</RootDirectory>
+      <LoggerRootDirectory>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\</LoggerRootDirectory>
+      <IntermediateDirectory>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBarContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBar\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-01-31T09:46:55.6589151-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

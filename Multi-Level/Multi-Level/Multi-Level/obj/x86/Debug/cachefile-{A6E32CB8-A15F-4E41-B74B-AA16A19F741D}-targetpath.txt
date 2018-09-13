@@ -1,0 +1,29 @@
+Content\Font1.xnb
+Content\Tile1.xnb
+Content\Tile.xnb
+Content\supermariohair.xnb
+Content\Marios coin adventure.xnb
+Content\marioPlay.xnb
+Content\marioPlayMouseOver.xnb
+Content\MarioBackground1.xnb
+Content\Mario Game Over.xnb
+Content\Mario nah Mouse OVer.xnb
+Content\Mario Nah.xnb
+Content\Mario Try Again.xnb
+Content\Mario Yea Mouse OVer.xnb
+Content\Mario Yea.xnb
+Content\Mario Level Complete.xnb
+Content\Mario Next Mouse Over.xnb
+Content\Mario Next.xnb
+Content\mario mouse.xnb
+Content\Coin Sound Effect.xnb
+Content\Super Mario Game Over.xnb
+Content\Super Mario Level Complete.xnb
+Content\Overworld Theme.xnb
+Content\Overworld Theme.wma
+Content\Underwater Theme.xnb
+Content\Underwater Theme.wma
+Content\Mario Kart 8 Theme Song.xnb
+Content\Mario Kart 8 Theme Song.wma
+Content\Super Mario Odyssey Theme.xnb
+Content\Super Mario Odyssey Theme.wma

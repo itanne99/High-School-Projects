@@ -1,0 +1,10 @@
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\bin\Debug\Tetris.exe.config
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\bin\Debug\Tetris.exe
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\bin\Debug\Tetris.pdb
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\obj\Debug\Tetris.exe
+B:\OneDrive\School\12th Grade\Computer Programing\Tetris\Tetris\obj\Debug\Tetris.pdb

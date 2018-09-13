@@ -1,0 +1,4 @@
+B:\OneDrive\School\12th Grade\Computer Programing\Path Finder\Path Finder\Path_FinderContent\obj\x86\Debug\Path_FinderContent.contentprojResolveAssemblyReference.cache
+B:\OneDrive\School\12th Grade\Computer Programing\Path Finder\Path Finder\Path_FinderContent\obj\x86\Debug\Path_FinderContent.contentproj.CoreCompileInputs.cache
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\Path Finder\Path Finder\Path_FinderContent\obj\x86\Debug\Path_FinderContent.contentprojResolveAssemblyReference.cache
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\Path Finder\Path Finder\Path_FinderContent\obj\x86\Debug\Path_FinderContent.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path_Finder", "Path Finder\Path_Finder\Path_Finder.csproj", "{9718564D-7E80-45D9-8043-371E31B14BAA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Path_FinderContent", "Path Finder\Path_FinderContent\Path_FinderContent.contentproj", "{A8B16A9F-D115-4BC9-96F1-0486AA03D130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9718564D-7E80-45D9-8043-371E31B14BAA}.Debug|x86.ActiveCfg = Debug|x86
+		{9718564D-7E80-45D9-8043-371E31B14BAA}.Debug|x86.Build.0 = Debug|x86
+		{9718564D-7E80-45D9-8043-371E31B14BAA}.Release|x86.ActiveCfg = Release|x86
+		{9718564D-7E80-45D9-8043-371E31B14BAA}.Release|x86.Build.0 = Release|x86
+		{A8B16A9F-D115-4BC9-96F1-0486AA03D130}.Debug|x86.ActiveCfg = Debug|x86
+		{A8B16A9F-D115-4BC9-96F1-0486AA03D130}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419F11C3-CAA8-4160-959E-855245FBB80E}
+	EndGlobalSection
+EndGlobal

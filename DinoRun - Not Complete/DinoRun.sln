@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoRun", "DinoRun\DinoRun\DinoRun.csproj", "{8D7C431F-1623-4191-AA8C-C3B64A536B28}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DinoRunContent", "DinoRun\DinoRunContent\DinoRunContent.contentproj", "{609E260A-DC61-4687-B392-68625B135FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7C431F-1623-4191-AA8C-C3B64A536B28}.Debug|x86.ActiveCfg = Debug|x86
+		{8D7C431F-1623-4191-AA8C-C3B64A536B28}.Debug|x86.Build.0 = Debug|x86
+		{8D7C431F-1623-4191-AA8C-C3B64A536B28}.Release|x86.ActiveCfg = Release|x86
+		{8D7C431F-1623-4191-AA8C-C3B64A536B28}.Release|x86.Build.0 = Release|x86
+		{609E260A-DC61-4687-B392-68625B135FBA}.Debug|x86.ActiveCfg = Debug|x86
+		{609E260A-DC61-4687-B392-68625B135FBA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2998353C-206B-4916-BEB0-7C7DEDC91035}
+	EndGlobalSection
+EndGlobal

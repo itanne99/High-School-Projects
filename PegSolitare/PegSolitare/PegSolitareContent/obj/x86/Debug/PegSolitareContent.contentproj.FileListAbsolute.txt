@@ -1,0 +1,5 @@
+G:\Mr. Scanlon\CP1\P5\Tanne, Ido\PegSolitare\PegSolitare\PegSolitareContent\obj\x86\Debug\PegSolitareContent.contentprojResolveAssemblyReference.cache
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitareContent\obj\x86\Debug\PegSolitareContent.contentprojResolveAssemblyReference.cache
+D:\Users\idota\Downloads\Chrome Downloads\PegSolitare\PegSolitare\PegSolitare\PegSolitareContent\obj\x86\Debug\PegSolitareContent.contentprojResolveAssemblyReference.cache
+B:\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitareContent\obj\x86\Debug\PegSolitareContent.contentprojResolveAssemblyReference.cache
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitareContent\obj\x86\Debug\PegSolitareContent.contentproj.CoreCompileInputs.cache

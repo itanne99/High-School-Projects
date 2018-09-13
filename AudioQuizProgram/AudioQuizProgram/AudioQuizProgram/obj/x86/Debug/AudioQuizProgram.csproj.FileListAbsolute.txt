@@ -1,0 +1,101 @@
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Correct Sound.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Deja Vu.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Epic Sax Gdalf.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Jarrasic Park Harmonica.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\USSR Anthem.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\We Don't Talk anymore.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Here with out you.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Mr Brightside.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Over My Head.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Story of a Girl.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\2000's Pop.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Meme central.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Music Backround.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Today's Pop.xnb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Correct Sound.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Deja Vu.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Epic Sax Gdalf.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Jarrasic Park Harmonica.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\USSR Anthem.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\We Don't Talk anymore.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Here with out you.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Mr Brightside.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Over My Head.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Story of a Girl.wma
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\AudioQuizProgram.exe
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\AudioQuizProgram.pdb
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.csprojResolveAssemblyReference.cache
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.exe
+\\artemis\18itanne\my documents\visual studio 2010\Projects\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.pdb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Correct Sound.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Deja Vu.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Epic Sax Gdalf.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Jarrasic Park Harmonica.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\USSR Anthem.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\We Don't Talk anymore.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Here without you.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Mr Brightside.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Over My Head.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Story of a Girl.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Music Backround.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\2000's Pop.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Meme central.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Today's Pop.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Googly Eyes.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Correct Sound.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Deja Vu.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Epic Sax Gdalf.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Jarrasic Park Harmonica.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\USSR Anthem.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\We Don't Talk anymore.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Here without you.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Mr Brightside.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Over My Head.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Story of a Girl.wma
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\AudioQuizProgram.exe
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\AudioQuizProgram.pdb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.csprojResolveAssemblyReference.cache
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.exe
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.pdb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Main Music.xnb
+B:\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Main Music.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Correct Sound.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Deja Vu.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Epic Sax Gdalf.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Jarrasic Park Harmonica.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\USSR Anthem.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\We Don't Talk anymore.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Here without you.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Mr Brightside.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Over My Head.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Story of a Girl.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Main Music.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Incorrect Sound.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Music Backround.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\2000's Pop.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Meme central.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Today's Pop.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Googly Eyes.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Correct Sound.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Deja Vu.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Epic Sax Gdalf.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Jarrasic Park Harmonica.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\USSR Anthem.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\We Don't Talk anymore.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Here without you.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Mr Brightside.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Over My Head.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Story of a Girl.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Main Music.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Incorrect Sound.wma
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\AudioQuizProgram.exe
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\AudioQuizProgram.pdb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.exe
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\obj\x86\Debug\AudioQuizProgram.pdb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Here without you pic.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Lonliest.xnb
+C:\Users\Owner\OneDrive\School\12th Grade\Computer Programing\AudioQuizProgram\AudioQuizProgram\AudioQuizProgram\bin\x86\Debug\Content\Look After you.xnb

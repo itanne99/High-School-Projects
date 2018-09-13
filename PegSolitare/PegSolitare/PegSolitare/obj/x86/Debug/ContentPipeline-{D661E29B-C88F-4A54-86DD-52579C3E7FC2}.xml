@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>pegsolitaireoutline.png</Source>
+      <Name>pegsolitaireoutline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\pegsolitaireoutline.xnb</Output>
+      <Time>2018-03-28T11:15:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>peg.png</Source>
+      <Name>peg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\peg.xnb</Output>
+      <Time>2018-03-28T11:15:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>psTitle.PNG</Source>
+      <Name>psTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\psTitle.xnb</Output>
+      <Time>2018-03-28T11:15:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>QuitButton.png</Source>
+      <Name>QuitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButton.xnb</Output>
+      <Time>2018-03-28T11:15:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>QuitButtonMouseOver.png</Source>
+      <Name>QuitButtonMouseOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\QuitButtonMouseOver.xnb</Output>
+      <Time>2018-03-28T11:15:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ResetButton.png</Source>
+      <Name>ResetButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\ResetButton.xnb</Output>
+      <Time>2018-03-28T11:15:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ResetButtonIsMouseOver.png</Source>
+      <Name>ResetButtonIsMouseOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\ResetButtonIsMouseOver.xnb</Output>
+      <Time>2018-03-28T11:15:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>You Lose!.PNG</Source>
+      <Name>You Lose!</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\You Lose!.xnb</Output>
+      <Time>2018-03-28T11:15:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>You Win!.PNG</Source>
+      <Name>You Win!</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\You Win!.xnb</Output>
+      <Time>2018-03-28T11:15:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2018-03-28T11:15:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DebugText.spritefont</Source>
+      <Name>DebugText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\DebugText.xnb</Output>
+      <Time>2018-03-28T11:15:38-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D661E29B-C88F-4A54-86DD-52579C3E7FC2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitareContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\PegSolitare\PegSolitare\PegSolitare\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-02T13:48:56.5590564-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

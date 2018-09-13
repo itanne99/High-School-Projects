@@ -1,0 +1,1 @@
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\DrumPad\DrumPad\DrumPadContent\obj\x86\Debug\DrumPadContent.contentprojResolveAssemblyReference.cache

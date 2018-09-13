@@ -1,0 +1,10 @@
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\bin\Debug\Hangman.exe.config
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\bin\Debug\Hangman.exe
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\bin\Debug\Hangman.pdb
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\obj\Debug\Hangman.exe
+B:\OneDrive\School\12th Grade\Computer Programing\Hangman\Hangman\obj\Debug\Hangman.pdb

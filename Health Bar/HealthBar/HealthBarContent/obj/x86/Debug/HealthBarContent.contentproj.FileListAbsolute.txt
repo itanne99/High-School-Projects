@@ -1,0 +1,8 @@
+C:\Users\Ramsey\Desktop\Health Bar\HealthBar\HealthBar\HealthBarContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pat\Desktop\HealthBar\HealthBar\HealthBarContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBarContent\obj\x86\Debug\HealthBarContent.contentprojResolveAssemblyReference.cache
+F:\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBarContent\obj\x86\Debug\HealthBarContent.contentprojResolveAssemblyReference.cache
+C:\MScanlon\XNA\XNA 2011-2012\Part 1 Basics\Part 1 Basics\4 Images\Health Bar\HealthBar\HealthBarContent\obj\x86\Debug\HealthBarContent.contentprojResolveAssemblyReference.cache
+G:\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBarContent\obj\x86\Debug\HealthBarContent.contentprojResolveAssemblyReference.cache
+G:\High School\Instructional\Mr. Scanlon\CP1\Resources\Health Bar\HealthBar\HealthBarContent\obj\x86\Debug\HealthBarContent.contentprojResolveAssemblyReference.cache
+\\artemis\18itanne\my documents\Visual Studio 2010\Projects\Health Bar\HealthBar\HealthBarContent\obj\x86\Debug\HealthBarContent.contentprojResolveAssemblyReference.cache

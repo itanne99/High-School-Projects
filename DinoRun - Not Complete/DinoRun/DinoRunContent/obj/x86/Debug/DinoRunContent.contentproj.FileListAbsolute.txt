@@ -1,0 +1,4 @@
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRunContent\obj\x86\Debug\DinoRunContent.contentprojResolveAssemblyReference.cache
+C:\Users\idota\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRunContent\obj\x86\Debug\DinoRunContent.contentproj.CoreCompileInputs.cache
+B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRunContent\obj\x86\Debug\DinoRunContent.contentprojResolveAssemblyReference.cache
+B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRunContent\obj\x86\Debug\DinoRunContent.contentproj.CoreCompileInputs.cache

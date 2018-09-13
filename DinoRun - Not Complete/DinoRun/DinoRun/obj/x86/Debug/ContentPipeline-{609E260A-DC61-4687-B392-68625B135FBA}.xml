@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRun\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2018-05-10T22:37:11.834317-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dino Run Title.png</Source>
+      <Name>Dino Run Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRun\bin\x86\Debug\Content\Dino Run Title.xnb</Output>
+      <Time>2018-05-10T22:34:31.0094814-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DebugFont.spritefont</Source>
+      <Name>DebugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRun\bin\x86\Debug\Content\DebugFont.xnb</Output>
+      <Time>2018-05-11T00:17:27.7859106-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dino.png</Source>
+      <Name>Dino</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRun\bin\x86\Debug\Content\Dino.xnb</Output>
+      <Time>2018-05-11T00:17:10.3718568-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{609E260A-DC61-4687-B392-68625B135FBA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRunContent\</RootDirectory>
+      <LoggerRootDirectory>B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRun\</LoggerRootDirectory>
+      <IntermediateDirectory>B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRun\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>B:\OneDrive\School\12th Grade\Computer Programing\DinoRun\DinoRun\DinoRun\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-03T19:19:14.5094513-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

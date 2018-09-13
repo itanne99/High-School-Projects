@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="HelloWorld.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelloWorld"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:ConnectionId='1' x:Name="txtblockTItle" HorizontalAlignment="Center" Height="90" Margin="28,10,17,0" TextWrapping="Wrap" Text="What's The Number?" VerticalAlignment="Top" Width="315" TextAlignment="Center" FontFamily="Quicksand" FontSize="36"/>
+        <TextBlock x:ConnectionId='2' x:Name="txtBlockAnswer" HorizontalAlignment="Center" Height="90" Margin="28,100,17,0" TextWrapping="Wrap" Text="??" VerticalAlignment="Top" Width="315" TextAlignment="Center" FontFamily="Quicksand" FontSize="36"/>
+        <TextBox x:ConnectionId='3' x:Name="txtBoxInput" HorizontalAlignment="Center" Height="90" Margin="28,199,17,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="315" TextAlignment="Center" FontSize="48" FontFamily="Quicksand" PlaceholderText="Guess"/>
+        <Button x:ConnectionId='4' x:Name="btnCheck" Content="Check" HorizontalAlignment="Center" Margin="28,315,17,0" VerticalAlignment="Top" Width="315" Height="90" FontFamily="Quicksand" FontSize="36"                       />
+        <TextBlock x:ConnectionId='5' x:Name="txtBlockHint" HorizontalAlignment="Center" Height="90" Margin="28,435,17,0" TextWrapping="Wrap" Text="Hint" VerticalAlignment="Top" Width="315" TextAlignment="Center" FontFamily="Quicksand" FontSize="36"/>
+        <TextBlock x:ConnectionId='6' x:Name="txtBlockNumberOfGuess" HorizontalAlignment="Center" Height="90" Margin="28,525,17,0" TextWrapping="Wrap" Text="# of attempts" VerticalAlignment="Top" Width="315" TextAlignment="Center" FontFamily="Quicksand" FontSize="36"/>
+    </Grid>
+</Page>
+
